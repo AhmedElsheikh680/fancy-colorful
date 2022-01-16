@@ -1,0 +1,324 @@
+# depslib dependency file v1.0
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\actionaddsquare.cpp
+	"ActionAddSquare.h"
+	"..\Figures\CSquare.h"
+	"..\ApplicationManager.h"
+	"..\GUI\GUI.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\actionaddsquare.h
+	"Action.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\action.h
+	"..\DefS.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\defs.h
+	"CMUgraphicsLib\CMUgraphics.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\cmugraphics.h
+	<string>
+	<windows.h>
+	"mousequeue.h"
+	"keyqueue.h"
+	"image.h"
+	"colors.h"
+	"version.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\mousequeue.h
+	<cstdlib>
+	"version.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\version.h
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\keyqueue.h
+	<cstdlib>
+	"version.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\image.h
+	<string>
+	<windows.h>
+	"version.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\colors.h
+	"version.h"
+
+1642340818 c:\users\haznom35\documents\github\fancy-colorful\project framework\figures\csquare.h
+	"CFigure.h"
+
+1642339687 c:\users\haznom35\documents\github\fancy-colorful\project framework\figures\cfigure.h
+	"..\defs.h"
+	"..\GUI\GUI.h"
+
+1642337132 c:\users\haznom35\documents\github\fancy-colorful\project framework\gui\gui.h
+	"..\DEFS.h"
+	"UI_Info.h"
+	"..\CMUgraphicsLib\CMUgraphics.h"
+
+1642337132 c:\users\haznom35\documents\github\fancy-colorful\project framework\gui\ui_info.h
+	"..\CMUgraphicsLib\CMUgraphics.h"
+
+1642339441 c:\users\haznom35\documents\github\fancy-colorful\project framework\applicationmanager.h
+	"DEFS.h"
+	"Figures\CFigure.h"
+	"GUI\input.h"
+	"GUI\output.h"
+	"GUI\UI_Info.h"
+
+1642337132 c:\users\haznom35\documents\github\fancy-colorful\project framework\gui\input.h
+	"..\DEFS.h"
+	"UI_Info.h"
+	"..\CMUgraphicsLib\CMUgraphics.h"
+
+1642337132 c:\users\haznom35\documents\github\fancy-colorful\project framework\gui\output.h
+	"Input.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\auxil.cpp
+	<cstdlib>
+	<windows.h>
+	"auxil.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\auxil.h
+	"version.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\cmugraphics.cpp
+	<string>
+	<iostream>
+	<cstdio>
+	<cmath>
+	"CMUgraphics.h"
+	"error.h"
+	"windowinput.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\error.h
+	"version.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\windowinput.h
+	<windows.h>
+	"mousequeue.h"
+	"keyqueue.h"
+
+1642340362 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\applicationmanager.cpp
+	"ApplicationManager.h"
+	"Actions\ActionAddSquare.h"
+	"Actions\saveAction.h"
+	"Actions\Exit.h"
+
+1642337839 c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\saveaction.h
+	"Action.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\image.cpp
+	<iostream>
+	"image.h"
+	"error.h"
+	"jpegload.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpegload.h
+	"version.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jcomapi.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jconfig.h
+	<stdlib.h>
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jmorecfg.h
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jpegint.h
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jerror.h
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jcparam.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdapimin.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdapistd.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdatasrc.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdcoefct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdcolor.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jddctmgr.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdct.h
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdhuff.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdhuff.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdhuff.h
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdinput.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdmainct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdmarker.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdmaster.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdmerge.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdphuff.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdhuff.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdpostct.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642339048 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\exit.cpp
+	"Exit.h"
+	"..\ApplicationManager.h"
+	"..\GUI\Input.h"
+	"..\GUI\Output.h"
+	"SaveAction.h"
+
+1642337763 c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\exit.h
+	"Action.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdsample.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jdtrans.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jerror.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jversion.h"
+	"jerror.h"
+	"jerror.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jversion.h
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jidctflt.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jidctfst.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jidctint.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jidctred.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jdct.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jmemmgr.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1642337131 c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jmemsys.h
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jmemnobs.c
+	"jinclude.h"
+	"jpeglib.h"
+	"jmemsys.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jquant1.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jquant2.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpeg\jutils.c
+	"jinclude.h"
+	"jpeglib.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\jpegload.c
+	<stdlib.h>
+	<stdio.h>
+	"jpeg\jinclude.h"
+	"jpeg\jpeglib.h"
+	"jpegload.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\keyqueue.cpp
+	"keyqueue.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\mousequeue.cpp
+	"mousequeue.h"
+
+1642337131 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\cmugraphicslib\windowinput.cpp
+	<iostream>
+	<string>
+	"CMUgraphics.h"
+	"windowinput.h"
+	"error.h"
+
+1642337132 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\figures\cfigure.cpp
+	"CFigure.h"
+
+1642337132 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\figures\csquare.cpp
+	"CSquare.h"
+
+1642337132 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\gui\gui.cpp
+	"GUI.h"
+
+1642337133 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\main.cpp
+	"ApplicationManager.h"
+	"GUI\GUI.h"
+
+1642339298 source:c:\users\haznom35\documents\github\fancy-colorful\project framework\actions\saveaction.cpp
+	"SaveAction.h"
+	"..\ApplicationManager.h"
+	"..\Figures\CFigure.h"
+	"..\GUI\Input.h"
+	"..\GUI\Output.h"
+	<fstream>
+
